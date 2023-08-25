@@ -58,7 +58,7 @@ ul.topnav li a {
 }
 
 #capa {
-    background: url("/ASSETS/img/vista-inferior-de-um-grupo-de-arvores.jpg");
+    background: url("../img/vista-inferior-de-um-grupo-de-arvores.jpg");
     height: 100%;
     text-align: center;
     background-size:cover;
